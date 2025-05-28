@@ -1,1 +1,16 @@
-# alert-message
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Popup Demo</title>
+    <script>
+        window.onload = function() {
+            alert("YOU ARE HACKED");
+        };
+    </script>
+</head>
+<body>
+    <h1>Welcome to the Demo Page</h1>
+    <p>This page shows an alert when opened.</p>
+</body>
+</html>
